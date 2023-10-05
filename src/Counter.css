@@ -73,11 +73,11 @@
     
 /* } */
 .negative{
-    color: #ff1744;
+    color: #cc0f35;
     animation: plus 500ms ease-in-out;
 }
 .positive{
-    color: #2abf77;
+    color: #23c074;
     animation: plus 500ms ease-in-out;
 }
 @keyframes plues{
