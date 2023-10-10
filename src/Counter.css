@@ -16,9 +16,8 @@
     /* padding-top: 30px; */
     font-size: 40px;
     margin-top: 50px;
-
     color: white;
-
+ 
     
 
 }
@@ -39,7 +38,7 @@
     padding: 10px 20px;
     & >*{
       border: none;
-      background-color: gray;
+      background-color: rgb(114, 111, 111);
       box-shadow: 0px 0px 10px #cfd8dc;
       font-size: 2rem;
       color: inherit;
