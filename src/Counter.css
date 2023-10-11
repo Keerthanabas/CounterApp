@@ -49,7 +49,7 @@
       outline: none;
       transition: background-color 250ms ease-in-out transistion 50ms ease-in-out;
       &:hover{
-        background-color: #cfd8dc;
+        background-color: #e4ecef;
       }
       &:active{
         transform: scale(0.9);
